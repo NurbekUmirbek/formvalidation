@@ -169,13 +169,13 @@ color: #B5B5B5;
         width: 250px;
         height: 300px;
         left: 30px;
-
+        top: 20px;    
     }
     .form__btn{
         width: 300px;
        
     }
-  .section{
+    .section{
         position: absolute;
     width: 200px;
     height: 24px;
