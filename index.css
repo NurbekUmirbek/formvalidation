@@ -168,7 +168,11 @@ color: #B5B5B5;
         position: absolute;
         width: 250px;
         height: 300px;
-        left: 100px;
-        top: 20;    
+        left: 30px;
+        top: 20px;    
+    }
+    .form__btn{
+        width: 250px;
+       
     }
     }
