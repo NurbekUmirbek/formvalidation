@@ -175,4 +175,11 @@ color: #B5B5B5;
         width: 300px;
        
     }
+    .section{
+        position: absolute;
+    width: 200px;
+    height: 24px;
+    left: 150px;
+    top: 650px;
+    }
     }
